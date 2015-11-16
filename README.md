@@ -10,6 +10,6 @@
 			<li style="font-family:sans-serif; color: cornflowerblue">Ronald in the white shirt, lol..</li>
 		</ul>
 	    <p style="font-family:Arial; color: crimson">&copy; Copyright Trevor Groves</p>
-	    <p>Click <a href="index.html">here</a> to go back to my first page</p>
+	    <p>Click <a href="https://github.com/glasscitytrev419/First-Html-Project">here</a> to go back to my first page</p>
   </body>
 </html>
